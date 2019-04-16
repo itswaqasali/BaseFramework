@@ -31,7 +31,7 @@ s.framework = "UIKit"
 #s.dependency 'SwiftMessages'
 
 # 8
-s.source_files = "BaseFramework/**/*.{swift}"
+s.source_files = "BaseFramework"
 
 # 9
 #s.resources = "BaseFramework/**/*.{png,jpeg,jpg,storyboard,xib,xcassets}"
