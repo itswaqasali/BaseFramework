@@ -48,19 +48,11 @@
 		F537E5682266029500EEAD24 /* BaseFramework */ = {
 			isa = PBXGroup;
 			children = (
-				F537E5712266029D00EEAD24 /* TestClasses */,
+				F537E572226602B100EEAD24 /* TestClass.swift */,
 				F537E5692266029500EEAD24 /* BaseFramework.h */,
 				F537E56A2266029500EEAD24 /* Info.plist */,
 			);
 			path = BaseFramework;
-			sourceTree = "<group>";
-		};
-		F537E5712266029D00EEAD24 /* TestClasses */ = {
-			isa = PBXGroup;
-			children = (
-				F537E572226602B100EEAD24 /* TestClass.swift */,
-			);
-			path = TestClasses;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
