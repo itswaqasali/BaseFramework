@@ -6,4 +6,10 @@
 //  Copyright © 2019 Ingic. All rights reserved.
 //
 
-import Foundation
+import UIKit
+
+public class TestClass{
+    public func printMe(){
+        print("inside test class")
+    }
+}
